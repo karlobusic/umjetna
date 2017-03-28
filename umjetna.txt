@@ -1,11 +1,13 @@
+Iako je 
+
 Googleov projekt DeepMind bavi se razvojem umjetne inteligencije koja je, podsjetimo, 
-trenutaèno najbolji igraè igre Go na svijetu, bolji i od najboljih profesionalaca. Znanstvenici koji rade na ovom 
-projektu sada su krenuli u novi oblik eksperimenata kojima žele rasvijetliti kako bi se umjetna inteligencija ponašala
- u "društvenim" interakcijama s drugim takvim sustavima,
- kada s njima treba suraðivati i ostvarivati svoje i zajednièke ciljeve.
+trenutaÃ¨no najbolji igraÃ¨ igre Go na svijetu, bolji i od najboljih profesionalaca. Znanstvenici koji rade na ovom 
+projektu sada su krenuli u novi oblik eksperimenata kojima Å¾ele rasvijetliti kako bi se umjetna inteligencija ponaÅ¡ala
+ u "druÅ¡tvenim" interakcijama s drugim takvim sustavima,
+ kada s njima treba suraÃ°ivati i ostvarivati svoje i zajedniÃ¨ke ciljeve.
 
  
 
-Jedan od takvih primjera je i dilema zatvorenika iz teorije igara, u kojoj pojedinci moraju suraðivati
- kako bi ostvarili zajednièki najpovoljniji rezultat, pa u DeepMindu žele provjeriti hoæe li dva sustava umjetne inteligencije "provaliti" da moraju suraðivati 
-ili æe se jedan protiv drugog nemilosrdno boriti i gledati samo svoj dobitak.
+Jedan od takvih primjera je i dilema zatvorenika iz teorije igara, u kojoj pojedinci moraju suraÃ°ivati
+ kako bi ostvarili zajedniÃ¨ki najpovoljniji rezultat, pa u DeepMindu Å¾ele provjeriti hoÃ¦e li dva sustava umjetne inteligencije "provaliti" da moraju suraÃ°ivati 
+ili Ã¦e se jedan protiv drugog nemilosrdno boriti i gledati samo svoj dobitak.
